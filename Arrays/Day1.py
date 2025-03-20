@@ -1,3 +1,4 @@
+
 # Find Second largest element in an array
 def second_largest(arr):
     first = second = -1
